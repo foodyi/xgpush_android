@@ -26,4 +26,5 @@ android版信鸽推送 ane
 
 ## 捐赠
 从开发到调试花费了不少时间和精力，希望大家给我不断更新的动力 ^_^
-[捐助](https://shenghuo.alipay.com/send/payment/fill.htm?optEmail=foodyi@163.com&payAmount=9.9&title=%B4%F2%C9%CD%C4%E3%B5%C4%A3%A1)
+
+想捐赠的朋友请转给我的支付宝账号 **foodyi@163.com**
