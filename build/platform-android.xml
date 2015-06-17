@@ -1,0 +1,8 @@
+<platform xmlns="http://ns.adobe.com/air/extension/17.0">
+  <packagedDependencies>
+    <packagedDependency>android-support-v4.jar</packagedDependency>
+    <packagedDependency>jg-filter-sdk-1.1.jar</packagedDependency>
+    <packagedDependency>wup-1.0.0.E-SNAPSHOT.jar</packagedDependency>
+    <packagedDependency>Xg.jar</packagedDependency>
+  </packagedDependencies>
+</platform>
